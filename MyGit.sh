@@ -162,6 +162,7 @@ git revert HEAD~2
 
 
 
+
  
 ' Git Branching / Merging
 '
@@ -225,6 +226,9 @@ git pull orgin master
 # Merge conflicts: https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts | Strategies : https://www.atlassian.com/git/tutorials/using-branches/merge-strategy
 
 # Pull request: https://www.youtube.com/watch?v=e3bjQX9jIBk
+
+# git checkout -- a.txt  // Use this to rollback changes to staged files.
+
 
 
 
